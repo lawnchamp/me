@@ -64,7 +64,7 @@ export default function App() {
       </div>
       <div className="hidden lg:block lg:w-1/2 lg:relative">
         <img
-          className="absolute inset-0 object-cover object-center w-full h-full"
+          className="absolute inset-0 object-cover object-center w-full h-full xl:max-w-4xl"
           src="https://res.cloudinary.com/onlinechesstimer/image/upload/v1579381863/smaller_miles_and_i_adqywo.png"
           alt="My son and I at the mountain"
         />
