@@ -26,7 +26,23 @@ export default function App() {
             <b className="pl-1 font-semibold text-green-500">React</b>, and
             <b className="pl-1 font-semibold text-green-500">Vue</b> since 2015
           </p>
-          <p className="mt-4 text-gray-600 sm:text-xl">
+          <p className="py-4 text-gray-600 sm:mt-4 sm:text-xl">
+            Currently working at{' '}
+            <a
+              className="text-blue-500 underline font-medium hover:text-blue-700"
+              href="https://www.getwellnetwork.com/"
+            >
+              GetWellNetwork
+            </a>{' '}
+            previously worked at{' '}
+            <a
+              className="text-blue-500 underline font-medium hover:text-blue-700"
+              href="https://learnzillion.com"
+            >
+              LearnZillion
+            </a>
+          </p>
+          <p className="text-gray-600 sm:text-xl">
             Computer Engineering degree from University Of Maryland
           </p>
           <div className="flex justify-center w-full pt-12">
