@@ -2,9 +2,9 @@
 
 export default function App() {
   return (
-    <div className="flex ">
+    <div className="flex">
       <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
-      <div className="max-w-md px-8 py-12 mx-auto sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
+      <div className="max-w-md px-8 mx-auto sm:py-12 sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
         <div className="xl:max-w-lg xl:ml-auto">
           <img
             className="mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-64 sm:w-full sm:object-cover sm:object-center lg:hidden"
