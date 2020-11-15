@@ -32,7 +32,7 @@ export default function App() {
           <div className="flex justify-center w-full pt-12">
             <a href="https://twitter.com/lawn_champ">
               <svg
-                className="w-8 h-8 mx-2 rounded-sm fill-current text-gray-500 hover:text-blue-400"
+                className="w-8 h-8 mx-2 text-gray-500 rounded-sm fill-current hover:text-blue-400"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 400 400"
               >
@@ -48,7 +48,7 @@ export default function App() {
             </a>
             <a href="https://www.linkedin.com/in/rileyshenk">
               <svg
-                className="w-8 h-8 mx-2 fill-current text-gray-500 hover:text-blue-600"
+                className="w-8 h-8 mx-2 text-gray-500 fill-current hover:text-blue-600"
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 32 32"
               >
