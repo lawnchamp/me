@@ -8,9 +8,9 @@
     "react-scripts": "4.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "eject": "react-scripts eject"
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
   },
   "eslintConfig": {
     "extends": [
@@ -28,5 +28,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^5.8.0",
+    "autoprefixer": "^10.0.2",
+    "postcss-nested": "^5.0.1",
+    "tailwindcss": "^1.9.6"
   }
 }

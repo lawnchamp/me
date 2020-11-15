@@ -1,9 +1,9 @@
 // Pallet 9, 18, 23
+import './index.css';
 
 export default function App() {
   return (
     <div className="flex">
-      <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
       <div className="max-w-md px-8 mx-auto sm:py-12 sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
         <div className="xl:max-w-lg xl:ml-auto">
           <img
